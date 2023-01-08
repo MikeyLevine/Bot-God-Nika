@@ -1,0 +1,9 @@
+{
+  "prefix": "!",
+  "permissions": "https://discord.com/api/oauth2/authorize?client_id=1059828721894297710&permissions=8&scope=bot",
+  "application_id": "1059828721894297710",
+  "sync_commands_globally": false,
+  "owners": [
+    780139382207545356
+  ]
+}
